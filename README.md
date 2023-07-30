@@ -25,7 +25,12 @@ You can try out the calculator by visiting the [live deployment](https://priyans
 The project is deployed using GitHub Pages. You can access it here: [Project Calculator Deployment](https://priyanshuthapliyal2005.github.io/PROJECT_CALCULATOR/)
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is open-source and available under the MIT License.
+
+You are free to use, modify, and distribute this project as per the terms of the MIT License.
+
+See [LICENSE](https://github.com/priyanshuthapliyal2005/PROJECT_CALCULATOR/blob/main/LICENSE) for more details.
+
 
 ### Acknowledgments
 - The project design is inspired by various online calculator designs.
